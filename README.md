@@ -22,9 +22,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - OsTicket installation files
 - Heidi SQl
 
-
-
 <h2>Installation Steps</h2>
+We are going to start by creating a Virtual Machine using Microsoft azure portal.We will be using a VM which is a remote computer that helps to protect our physichal machine just in case something goes wrong. Create a resource group name it "OsTicket" and then i wiil go ahead create a VM with 2-4 CPUs as shown in the example below.
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
