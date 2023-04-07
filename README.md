@@ -73,7 +73,7 @@ Next step is download and install VC_redist.x86.exe.download and install MySQL 5
   ![image](https://user-images.githubusercontent.com/129979322/230647422-fc347443-c9d3-4c66-b9c1-82ebcbbf0a01.png)
   
 ![image](https://user-images.githubusercontent.com/129979322/230648402-a69f73c0-aac3-44cc-a190-f80f602e3419.png)
-
+Always make sure you reload IIS by clicking on your local host ever"VM-OsTicket"and click"restart"under Manage server.
 
 
 
