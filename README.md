@@ -47,13 +47,15 @@ Right click the start menu then choose run and type 'control" for control panel.
   ![image](https://user-images.githubusercontent.com/129979322/230539426-90443585-c145-4310-9094-0a204cab4893.png)
   ![image](https://user-images.githubusercontent.com/129979322/230539154-154dc77c-d393-41f9-b34e-870a3b68d9d1.png)
 ![image](https://user-images.githubusercontent.com/129979322/230539846-2fbacfed-32b0-4fe4-9b88-02f0341c3d4a.png)
+  ![image](https://user-images.githubusercontent.com/129979322/230622665-fb685f8b-9681-489c-b53e-9c8b188accd2.png)
+
 
 
 
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
