@@ -43,6 +43,8 @@ Done with our VM set up next we are going to install and enable ISS with CGI.ISS
 Right click the start menu then choose run and type 'control" for control panel. Go with programs, click on turn windows features programs on and off
   
   ![image](https://user-images.githubusercontent.com/129979322/230538616-13772612-8f80-43ff-881d-c41def8e8965.png)
+  ![image](https://user-images.githubusercontent.com/129979322/230538769-7bd7d427-a5b2-462a-853c-eced3da7fd0d.png)
+
 
 
 
