@@ -48,6 +48,8 @@ Right click the start menu then choose run and type 'control" for control panel.
   ![image](https://user-images.githubusercontent.com/129979322/230539154-154dc77c-d393-41f9-b34e-870a3b68d9d1.png)
 ![image](https://user-images.githubusercontent.com/129979322/230539846-2fbacfed-32b0-4fe4-9b88-02f0341c3d4a.png)
   ![image](https://user-images.githubusercontent.com/129979322/230622665-fb685f8b-9681-489c-b53e-9c8b188accd2.png)
+  ![image](https://user-images.githubusercontent.com/129979322/230622943-4a93830f-ec38-4a4a-a625-ac8a8180733d.png)
+
 
 
 
