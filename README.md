@@ -51,17 +51,7 @@ Right click the start menu then choose run and type 'control" for control panel.
   ![image](https://user-images.githubusercontent.com/129979322/230622943-4a93830f-ec38-4a4a-a625-ac8a8180733d.png)
 
 
-
-
-
-
-
-<p>
-
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+we are going to install rewrite module which is one of the requirement for OsTicket to work.
 <br />
 
 <p>
