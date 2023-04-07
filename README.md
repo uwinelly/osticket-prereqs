@@ -40,10 +40,12 @@ Next we are going to Remote desktop connect into our vm install a bunch of prere
 ![image](https://user-images.githubusercontent.com/129979322/230535838-d9063489-cfd0-48ed-9a03-34a52ed890e4.png)
 
 Done with our VM set up next we are going to install and enable ISS with CGI.ISS (Internet Information services)is a web server that allows the computer to serve up website.Because OsTicket runs out of a website.We need to set up and configure ISS in order to be able to run OsTicket.
-Right click the start menu then choose run and type 'control" for control panel. Go with programs, click on turn windows features programs on and off
+Right click the start menu then choose run and type 'control" for control panel. Go with programs, click on turn windows features programs on and off.Enable ISS,go ahead expand It then expand World web wide services, expand Application development features and enable CGI.
   
   ![image](https://user-images.githubusercontent.com/129979322/230538616-13772612-8f80-43ff-881d-c41def8e8965.png)
   ![image](https://user-images.githubusercontent.com/129979322/230538769-7bd7d427-a5b2-462a-853c-eced3da7fd0d.png)
+  ![image](https://user-images.githubusercontent.com/129979322/230539154-154dc77c-d393-41f9-b34e-870a3b68d9d1.png)
+
 
 
 
