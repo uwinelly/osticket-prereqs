@@ -69,7 +69,10 @@ Next step is download and install VC_redist.x86.exe.download and install MySQL 5
 ![image](https://user-images.githubusercontent.com/129979322/230643258-018bb897-9a1d-4735-b6f7-a61c42673621.png)
   ![image](https://user-images.githubusercontent.com/129979322/230643426-96cff922-3a69-45fc-975f-13464ac5ce44.png)
 ![image](https://user-images.githubusercontent.com/129979322/230643912-6af50e34-dc3f-4a6b-9d57-ef9bc57214e8.png)
-  ![image](https://user-images.githubusercontent.com/129979322/230646813-6f2fd16b-7053-4931-b28b-9e383b23f267.png)![image](https://user-images.githubusercontent.com/129979322/230647422-fc347443-c9d3-4c66-b9c1-82ebcbbf0a01.png)
+  ![image](https://user-images.githubusercontent.com/129979322/230646813-6f2fd16b-7053-4931-b28b-9e383b23f267.png)
+  ![image](https://user-images.githubusercontent.com/129979322/230647422-fc347443-c9d3-4c66-b9c1-82ebcbbf0a01.png)
+  
+![image](https://user-images.githubusercontent.com/129979322/230648402-a69f73c0-aac3-44cc-a190-f80f602e3419.png)
 
 
 
