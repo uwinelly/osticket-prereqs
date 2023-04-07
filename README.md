@@ -79,6 +79,8 @@ Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”
 
 
 ![image](https://user-images.githubusercontent.com/129979322/230650924-a31a3e52-501a-401b-8359-987659b56f90.png)
+  ![image](https://user-images.githubusercontent.com/129979322/230651400-19383d9f-5bfa-47a3-8f0c-bdbfad8ce38a.png)
+
 
 
 
