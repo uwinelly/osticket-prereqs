@@ -78,6 +78,7 @@ Always make sure you reload IIS by clicking on your local host ever"VM-OsTicket"
 Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”
 
 
+![image](https://user-images.githubusercontent.com/129979322/230650924-a31a3e52-501a-401b-8359-987659b56f90.png)
 
 
 
