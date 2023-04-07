@@ -102,6 +102,8 @@ Refresh the osTicket site in your browse, observe the changes
   
 ![image](https://user-images.githubusercontent.com/129979322/230659264-9988705f-223e-47ac-ab65-6907d1a55529.png)
   ![image](https://user-images.githubusercontent.com/129979322/230659373-4d407eec-3251-42ad-99d7-4a2fb5c8dcd2.png)
+  
+![image](https://user-images.githubusercontent.com/129979322/230660067-8c4e0b78-bac9-4a8d-b0c9-eab24d380243.png)
 
 
 
