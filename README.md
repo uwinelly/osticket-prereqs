@@ -51,7 +51,9 @@ Right click the start menu then choose run and type 'control" for control panel.
   ![image](https://user-images.githubusercontent.com/129979322/230622943-4a93830f-ec38-4a4a-a625-ac8a8180733d.png)
 
 
-we are going to install rewrite module which is one of the requirement for OsTicket to work.Next will be creating the directory C:\PHP on the root of C:\Drive and download php-7.3.8-nts-Win32-VC15-x86.zip) and unzip the contents into C:\PHP we have just created.
+we are going to install rewrite module(rewrite_amd64_en-US.msi) which is one of the requirement for OsTicket to work.Next will be creating the directory C:\PHP on the root of C:\Drive and download php-7.3.8-nts-Win32-VC15-x86.zip) and unzip the contents into C:\PHP we have just created.
+Next step is download and install VC_redist.x86.exe.
+
 
   ![image](https://user-images.githubusercontent.com/129979322/230625274-5667d2ed-d8b6-4e17-ac24-6fdb3c95d43a.png)
   ![image](https://user-images.githubusercontent.com/129979322/230628877-5ea583fc-fd4c-4bb1-ab33-9c73a295fff3.png)
