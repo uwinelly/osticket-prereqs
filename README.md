@@ -52,7 +52,8 @@ Right click the start menu then choose run and type 'control" for control panel.
 
 
 we are going to install rewrite module(rewrite_amd64_en-US.msi) which is one of the requirement for OsTicket to work.Next will be creating the directory C:\PHP on the root of C:\Drive and download php-7.3.8-nts-Win32-VC15-x86.zip) and unzip the contents into C:\PHP we have just created.
-Next step is download and install VC_redist.x86.exe.
+Next step is download and install VC_redist.x86.exe.download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi)
+
 
 
   ![image](https://user-images.githubusercontent.com/129979322/230625274-5667d2ed-d8b6-4e17-ac24-6fdb3c95d43a.png)
@@ -61,6 +62,10 @@ Next step is download and install VC_redist.x86.exe.
   ![image](https://user-images.githubusercontent.com/129979322/230629210-6984446b-96a9-4544-915f-83c730cf57fc.png)
   ![image](https://user-images.githubusercontent.com/129979322/230640048-405eefec-e2a7-4a56-ac49-b562a98e37f1.png)
 ![image](https://user-images.githubusercontent.com/129979322/230639772-0680595b-f143-4e76-a2af-37cb3f60af11.png)
+  ![image](https://user-images.githubusercontent.com/129979322/230641158-dc915bcf-cda3-428f-a2a7-9d33b8258248.png)
+  ![image](https://user-images.githubusercontent.com/129979322/230641541-c7ce8b8a-a88e-414e-bc18-885ba7a6e538.png)
+
+
   
 
 
