@@ -86,6 +86,15 @@ On the right, click “Browse *:80”
   ![image](https://user-images.githubusercontent.com/129979322/230651932-7ad72bb5-5b63-4931-a0b9-2847c42977ee.png)
   ![image](https://user-images.githubusercontent.com/129979322/230652679-43f884d9-b6e6-4a67-8c9f-1ddbbc4998f9.png)
   ![image](https://user-images.githubusercontent.com/129979322/230652929-87eec733-86f4-4d79-86fa-ef03745207af.png)
+Note that some extensions are not enabled
+Go back to IIS, sites -> Default -> osTicket
+Double-click PHP Manager
+Click “Enable or disable an extension”
+Enable: php_imap.dll
+Enable: php_intl.dll
+Enable: php_opcache.dll
+Refresh the osTicket site in your browse, observe the changes
+
 
 
 
