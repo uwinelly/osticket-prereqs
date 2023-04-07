@@ -75,7 +75,9 @@ Next step is download and install VC_redist.x86.exe.download and install MySQL 5
 ![image](https://user-images.githubusercontent.com/129979322/230648402-a69f73c0-aac3-44cc-a190-f80f602e3419.png)
 Always make sure you reload IIS by clicking on your local host ever"VM-OsTicket"and click"restart"under Manage server.
   Now lets go ahead and Install osTicket v1.15.8 download osTicket.Extract and copy “upload” folder to c:\inetpub\wwwroot
-Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”
+Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”.Go to sites -> Default -> osTicket
+On the right, click “Browse *:80”
+
 
 
 ![image](https://user-images.githubusercontent.com/129979322/230650924-a31a3e52-501a-401b-8359-987659b56f90.png)
