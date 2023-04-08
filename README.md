@@ -129,6 +129,7 @@ Next step is to delete the C:\inetpub\wwwroot\osTicket\setup and Set Permissions
   ![image](https://user-images.githubusercontent.com/129979322/230733963-e9b9e94f-9d49-40ed-8f71-0e2a93f74894.png)
 ![image](https://user-images.githubusercontent.com/129979322/230734036-02c962e9-8e66-4f52-8024-c0453d5264c0.png)
   ![image](https://user-images.githubusercontent.com/129979322/230734237-5ef42a53-ff24-4267-8b50-66400886af69.png)
+![image](https://user-images.githubusercontent.com/129979322/230734671-0dd2ea89-5214-4cb7-9180-d73890a9c397.png)
 
 
 
