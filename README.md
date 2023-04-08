@@ -118,7 +118,8 @@ We are going to install Heidisql which allows us to connect to mySQL server we c
   ![image](https://user-images.githubusercontent.com/129979322/230732863-49bb66e5-e00b-4865-9235-0ed6eb303ee3.png)
 
 ![image](https://user-images.githubusercontent.com/129979322/230733144-ee412047-5e9a-45f5-8606-21571dd059e6.png)
-  ![image](https://user-images.githubusercontent.com/129979322/230733233-efcf1f3e-5201-40b4-b772-c6265fb5a195.png)
+  ![image](https://user-images.githubusercontent.com/129979322/230733233-efcf1f3e-5201-40b4-b772-c6265fb5a195.png)![image](https://user-images.githubusercontent.com/129979322/230733325-76eb16b5-fb49-4cf9-ae0a-00828a76c862.png)
+
 
 
 
