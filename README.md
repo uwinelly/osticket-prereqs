@@ -123,6 +123,9 @@ We are going to install Heidisql which allows us to connect to mySQL server we c
 ![image](https://user-images.githubusercontent.com/129979322/230733458-234dcccc-07b7-4471-a736-71b8134c7909.png)
   ![image](https://user-images.githubusercontent.com/129979322/230733578-8d635e30-71cd-45d9-ba48-bc736c40f4cf.png)
 ![image](https://user-images.githubusercontent.com/129979322/230733611-2460f65a-4307-4891-88eb-3a08e26d6d6e.png)
+  
+  Congratulations,now you can browse to your help desk login page: http://localhost/osTicket/scp/login.php
+Next step is to delete the C:\inetpub\wwwroot\osTicket\setup and Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php
 
 
 
