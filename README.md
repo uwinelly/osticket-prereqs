@@ -55,12 +55,12 @@ Enable ISS,go ahead expand It then expand World web wide services, expand Applic
   ![image](https://user-images.githubusercontent.com/129979322/230538769-7bd7d427-a5b2-462a-853c-eced3da7fd0d.png)
   ![image](https://user-images.githubusercontent.com/129979322/230539426-90443585-c145-4310-9094-0a204cab4893.png)
   ![image](https://user-images.githubusercontent.com/129979322/230539154-154dc77c-d393-41f9-b34e-870a3b68d9d1.png)
-  ![image](https://user-images.githubusercontent.com/129979322/230539846-2fbacfed-32b0-4fe4-9b88-02f0341c3d4a.png)
-  ![image](https://user-images.githubusercontent.com/129979322/230622665-fb685f8b-9681-489c-b53e-9c8b188accd2.png)
   
 If you wanted to make sure that your web serves are working,you can open a new browser and type in 127.0.0.1(whis is your local host or loopback).
 You should be able to see the IIS page popup.If not double check your installation with CGI.
   
+  ![image](https://user-images.githubusercontent.com/129979322/230539846-2fbacfed-32b0-4fe4-9b88-02f0341c3d4a.png)
+  ![image](https://user-images.githubusercontent.com/129979322/230622665-fb685f8b-9681-489c-b53e-9c8b188accd2.png)
   ![image](https://user-images.githubusercontent.com/129979322/230622943-4a93830f-ec38-4a4a-a625-ac8a8180733d.png)
 
 
