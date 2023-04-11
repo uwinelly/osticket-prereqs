@@ -86,6 +86,9 @@ installation as well as "Launch the MySQL Instance Configuration Wizard" box che
   ![image](https://user-images.githubusercontent.com/129979322/230641158-dc915bcf-cda3-428f-a2a7-9d33b8258248.png)
   ![image](https://user-images.githubusercontent.com/129979322/230641541-c7ce8b8a-a88e-414e-bc18-885ba7a6e538.png)
   ![image](https://user-images.githubusercontent.com/129979322/230641850-6a8a1e04-66a2-4403-92a1-22ace505ab5e.png)
+  
+Go ahead and choose Standard configuration,click "next" and Password1 will be your new root password,click "Execute" and click "Finish"
+  
   ![image](https://user-images.githubusercontent.com/129979322/230642380-ca1a9b30-0c17-4683-af46-0e6fd0c77611.png)
   ![image](https://user-images.githubusercontent.com/129979322/230643258-018bb897-9a1d-4735-b6f7-a61c42673621.png)
   ![image](https://user-images.githubusercontent.com/129979322/230643426-96cff922-3a69-45fc-975f-13464ac5ce44.png)
