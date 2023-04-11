@@ -79,6 +79,10 @@ Next step is download and install VC_redist.x86.exe.
   
   ![image](https://user-images.githubusercontent.com/129979322/230640048-405eefec-e2a7-4a56-ac49-b562a98e37f1.png)
   ![image](https://user-images.githubusercontent.com/129979322/230639772-0680595b-f143-4e76-a2af-37cb3f60af11.png)
+
+Then we will download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi).Make sure you choose "Typical" 
+installation as well as "Launch the MySQL Instance Configuration Wizard" box checked off before you click "Finish".
+  
   ![image](https://user-images.githubusercontent.com/129979322/230641158-dc915bcf-cda3-428f-a2a7-9d33b8258248.png)
   ![image](https://user-images.githubusercontent.com/129979322/230641541-c7ce8b8a-a88e-414e-bc18-885ba7a6e538.png)
   ![image](https://user-images.githubusercontent.com/129979322/230641850-6a8a1e04-66a2-4403-92a1-22ace505ab5e.png)
