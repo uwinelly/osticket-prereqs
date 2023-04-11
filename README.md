@@ -40,6 +40,9 @@ Simply open remote desktop connection and use the public IPv address to connect 
   
   ![image](https://user-images.githubusercontent.com/129979322/230535575-e09be284-2813-452c-b45f-73f750f39a85.png)
   ![image](https://user-images.githubusercontent.com/129979322/230535770-ea02a294-2a23-4cc9-85c0-74f5db5fe407.png)
+  
+Click yes to connect anyway.
+  
   ![image](https://user-images.githubusercontent.com/129979322/230535838-d9063489-cfd0-48ed-9a03-34a52ed890e4.png)
 
 Done with our VM set up next we are going to install and enable ISS with CGI.
