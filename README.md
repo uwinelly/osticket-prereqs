@@ -102,13 +102,14 @@ We will go ahead to the start menu, search for IIS right click it and then run i
 
 Always make sure you reload IIS by clicking on your local host ever"VM-OsTicket"and click"restart"under Manage server.
 Now lets go ahead and Install osTicket v1.15.8 download osTicket.Extract and copy “upload” folder to c:\inetpub\wwwroot
-Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”.Go to sites -> Default -> osTicket
-On the right, click “Browse *:80”
+Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”.
 
   ![image](https://user-images.githubusercontent.com/129979322/230650924-a31a3e52-501a-401b-8359-987659b56f90.png)
   ![image](https://user-images.githubusercontent.com/129979322/230651400-19383d9f-5bfa-47a3-8f0c-bdbfad8ce38a.png)
   ![image](https://user-images.githubusercontent.com/129979322/230651691-f75854b5-9c0b-4bd6-94fe-0fa040750b62.png)
   ![image](https://user-images.githubusercontent.com/129979322/230651932-7ad72bb5-5b63-4931-a0b9-2847c42977ee.png)
+Restart the IIS server and Go to sites -> Default -> osTicket
+On the right, click “Browse *:80”
   ![image](https://user-images.githubusercontent.com/129979322/230652679-43f884d9-b6e6-4a67-8c9f-1ddbbc4998f9.png)
   ![image](https://user-images.githubusercontent.com/129979322/230652929-87eec733-86f4-4d79-86fa-ef03745207af.png)
   
