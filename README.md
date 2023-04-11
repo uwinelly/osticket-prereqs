@@ -84,8 +84,6 @@ Now lets go ahead and Install osTicket v1.15.8 download osTicket.Extract and cop
 Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”.Go to sites -> Default -> osTicket
 On the right, click “Browse *:80”
 
-
-
   ![image](https://user-images.githubusercontent.com/129979322/230650924-a31a3e52-501a-401b-8359-987659b56f90.png)
   ![image](https://user-images.githubusercontent.com/129979322/230651400-19383d9f-5bfa-47a3-8f0c-bdbfad8ce38a.png)
   ![image](https://user-images.githubusercontent.com/129979322/230651691-f75854b5-9c0b-4bd6-94fe-0fa040750b62.png)
@@ -126,7 +124,8 @@ We are going to install Heidisql which allows us to connect to mySQL server we c
   ![image](https://user-images.githubusercontent.com/129979322/230732863-49bb66e5-e00b-4865-9235-0ed6eb303ee3.png)
 
   ![image](https://user-images.githubusercontent.com/129979322/230733144-ee412047-5e9a-45f5-8606-21571dd059e6.png)
-  ![image](https://user-images.githubusercontent.com/129979322/230733233-efcf1f3e-5201-40b4-b772-c6265fb5a195.png)![image](https://user-       images.githubusercontent.com/129979322/230733325-76eb16b5-fb49-4cf9-ae0a-00828a76c862.png)
+  ![image](https://user-images.githubusercontent.com/129979322/230733233-efcf1f3e-5201-40b4-b772-c6265fb5a195.png)
+  ![image](https://user-images.githubusercontent.com/129979322/230733325-76eb16b5-fb49-4cf9-ae0a-00828a76c862.png)
   
   ![image](https://user-images.githubusercontent.com/129979322/230733458-234dcccc-07b7-4471-a736-71b8134c7909.png)
   ![image](https://user-images.githubusercontent.com/129979322/230733578-8d635e30-71cd-45d9-ba48-bc736c40f4cf.png)
