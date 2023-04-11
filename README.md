@@ -27,7 +27,7 @@ We are going to start by creating a Virtual Machine using Microsoft azure portal
 ![image](https://user-images.githubusercontent.com/129979322/230532636-ae0bab0d-ed7c-4c68-af2b-32a9210e1452.png)
 ![image](https://user-images.githubusercontent.com/129979322/230533674-a6ca3fb5-0714-44f6-bf7d-792a23ff2675.png)
 ![image](https://user-images.githubusercontent.com/129979322/230532930-ba36dde8-2641-46d6-8732-1355cb9ec1ff.png)
-we are done creating the envirronement in Azure.
+we are done creating the environment in Azure.
   
 <p>
 Next we are going to Remote desktop connect into our vm install a bunch of prerequisites as well as install OsTicket. Make sure we can log into it.
