@@ -92,6 +92,9 @@ Go ahead and choose Standard configuration,click "next" and Password1 will be yo
   ![image](https://user-images.githubusercontent.com/129979322/230642380-ca1a9b30-0c17-4683-af46-0e6fd0c77611.png)
   ![image](https://user-images.githubusercontent.com/129979322/230643258-018bb897-9a1d-4735-b6f7-a61c42673621.png)
   ![image](https://user-images.githubusercontent.com/129979322/230643426-96cff922-3a69-45fc-975f-13464ac5ce44.png)
+  
+We will go ahead to the start menu, search for IIS right click it and then run it as an administrator.Double click on the "PHP Manager" icon and then click on register new PHP Version , browse to find your PHP Folder and look for your PHP-CGI file and open it click "ok".
+  
   ![image](https://user-images.githubusercontent.com/129979322/230643912-6af50e34-dc3f-4a6b-9d57-ef9bc57214e8.png)
   ![image](https://user-images.githubusercontent.com/129979322/230646813-6f2fd16b-7053-4931-b28b-9e383b23f267.png)
   ![image](https://user-images.githubusercontent.com/129979322/230647422-fc347443-c9d3-4c66-b9c1-82ebcbbf0a01.png)  
