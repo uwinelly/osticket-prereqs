@@ -31,11 +31,13 @@ Create a resource group name it "OsTicket" and then i will go ahead create a VM 
   ![image](https://user-images.githubusercontent.com/129979322/230533674-a6ca3fb5-0714-44f6-bf7d-792a23ff2675.png)
   ![image](https://user-images.githubusercontent.com/129979322/230532930-ba36dde8-2641-46d6-8732-1355cb9ec1ff.png)
   
-we are done creating the environment in Azure.  
-Next we are going to Remote desktop connect into our vm install a bunch of prerequisites as well as install OsTicket. 
-Make sure we can log into it.
+We are done creating the environment in Azure.  
+Next, we are going to Remote desktop connect into our VM.Install a bunch of prerequisites as well as OsTicket making sure we can log into it.
 
   ![image](https://user-images.githubusercontent.com/129979322/230535141-9d3f6a63-d0ff-47e2-8328-d8dba7c5975c.png)
+  
+Simply open remote desktop connection and use the public IPv address to connect to your VM. 
+  
   ![image](https://user-images.githubusercontent.com/129979322/230535575-e09be284-2813-452c-b45f-73f750f39a85.png)
   ![image](https://user-images.githubusercontent.com/129979322/230535770-ea02a294-2a23-4cc9-85c0-74f5db5fe407.png)
   ![image](https://user-images.githubusercontent.com/129979322/230535838-d9063489-cfd0-48ed-9a03-34a52ed890e4.png)
