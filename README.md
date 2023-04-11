@@ -36,7 +36,7 @@ Next, we are going to Remote desktop connect into our VM.Install a bunch of prer
 
   ![image](https://user-images.githubusercontent.com/129979322/230535141-9d3f6a63-d0ff-47e2-8328-d8dba7c5975c.png)
   
-Simply open remote desktop connection and use the public IPv address to connect to your VM. 
+Simply open remote desktop connection and use the public IPv address to connect to your VM.Go ahead and login with the username and password you used while creating your VM.
   
   ![image](https://user-images.githubusercontent.com/129979322/230535575-e09be284-2813-452c-b45f-73f750f39a85.png)
   ![image](https://user-images.githubusercontent.com/129979322/230535770-ea02a294-2a23-4cc9-85c0-74f5db5fe407.png)
