@@ -154,8 +154,8 @@ We are going to install Heidisql which allows us to connect to mySQL server we c
   
   ![image](https://user-images.githubusercontent.com/129979322/230732730-c9ebd915-1601-40d3-bc12-580389ef2aff.png)
   ![image](https://user-images.githubusercontent.com/129979322/230732863-49bb66e5-e00b-4865-9235-0ed6eb303ee3.png)
-We will now create a database called "osTicket". Right click on unamed in HeidiSQL > Create New > Database> Name:osTicket> OK > Make sure there are no errors next to line 19'create database"
-
+  
+We will now create a database called "osTicket". Right click on unamed in HeidiSQL > Create New > Database> Name:osTicket> OK >.
 
   ![image](https://user-images.githubusercontent.com/129979322/230733144-ee412047-5e9a-45f5-8606-21571dd059e6.png)
   ![image](https://user-images.githubusercontent.com/129979322/230733233-efcf1f3e-5201-40b4-b772-c6265fb5a195.png)
