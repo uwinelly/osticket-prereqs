@@ -126,7 +126,7 @@ Enable: php_opcache.dll
   ![image](https://user-images.githubusercontent.com/129979322/230655267-ceb485bd-43a0-4742-9353-ad96c3fd2b37.png)
   ![image](https://user-images.githubusercontent.com/129979322/230655680-c43e94de-b901-4031-8f88-e6ab46066a14.png)
   
-Refresh the osTicket site in your browse, observe the changes on the picture below.  
+Refresh the osTicket site in your browse, and the observe the changes as shown on the picture below.  
 
   ![image](https://user-images.githubusercontent.com/129979322/230657049-29c15ba0-f7f4-4689-a04a-814fd2cbac44.png)
   
