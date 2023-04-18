@@ -108,7 +108,8 @@ Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”.
   ![image](https://user-images.githubusercontent.com/129979322/230651691-f75854b5-9c0b-4bd6-94fe-0fa040750b62.png)
   ![image](https://user-images.githubusercontent.com/129979322/230651932-7ad72bb5-5b63-4931-a0b9-2847c42977ee.png)
   
-Restart the IIS server and Go to sites -> Default -> osTicketOn the right, click “Browse *:80”
+Restart the IIS server and Go to sites -> Default -> osTicket on the right, click “Browse *:80”(http)
+You are going to see the osTicket installer in your browser.
   
   ![image](https://user-images.githubusercontent.com/129979322/230652679-43f884d9-b6e6-4a67-8c9f-1ddbbc4998f9.png)
   ![image](https://user-images.githubusercontent.com/129979322/230652929-87eec733-86f4-4d79-86fa-ef03745207af.png)
@@ -130,7 +131,7 @@ Refresh the osTicket site in your browse, and the observe the changes as shown o
 
   ![image](https://user-images.githubusercontent.com/129979322/230657049-29c15ba0-f7f4-4689-a04a-814fd2cbac44.png)
   
-Next,we will rename the ost-sampleconfig.php. From the windows (C:) drive in file manager go to inetpub > wwwroot > osTicket >include > ost-sampleconfig.php.Right click and rename to ost-config.php.We will the assign permissions to the ost-config.php by right clicking and going to properties. security tab. Advanced. Disable inheritance > Remove all inherited permissions from the object.Click Add > Select a principal > Type Everyone > check Names > OK > Give everyone Full control > OK > Apply >OK
+Next,we will rename the ost-sampleconfig.php. From the windows (C:) drive in file manager go to inetpub > wwwroot > osTicket >include > ost-sampleconfig.php.Right click and rename to "ost-config.php".We will the assign permissions to the ost-config.php by right clicking and going to properties. security tab. Advanced. Disable inheritance > Remove all inherited permissions from the object.Click Add > Select a principal > Type Everyone > check Names > OK > Give everyone Full control > OK > Apply >OK
   ![image](https://user-images.githubusercontent.com/129979322/230660067-8c4e0b78-bac9-4a8d-b0c9-eab24d380243.png)
   ![image](https://user-images.githubusercontent.com/129979322/230660338-cc525e3b-94fa-4d83-9660-1ff7d53da7c3.png)
   ![image](https://user-images.githubusercontent.com/129979322/230660612-f8793132-da1e-4b3f-a92f-52ad025e75fe.png)
