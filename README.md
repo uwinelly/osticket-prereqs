@@ -164,11 +164,12 @@ Next step is to delete the C:\inetpub\wwwroot\osTicket\setup and Set Permissions
   ![image](https://user-images.githubusercontent.com/129979322/230734671-0dd2ea89-5214-4cb7-9180-d73890a9c397.png)
   ![image](https://user-images.githubusercontent.com/129979322/230734802-87952c5c-b6f3-4e7f-b6d2-16aa3571cbe3.png)
   
-Enter yourcredentials when we had set up osTicket installer previously
+Enter your credentials when we had set up osTicket installer previously
   
   ![image](https://user-images.githubusercontent.com/129979322/230734903-38b68d6b-f4b5-4b03-bce1-9c72d286e921.png)
   ![image](https://user-images.githubusercontent.com/129979322/230735033-cea7e49c-1413-483e-a4e1-35e3b7045700.png)
-
+  
+Congratulations, you have made it to the end of how to set up osTicket.This tutorial was designed for beginners to learn how to setup and use osTicket.
 
 
 
