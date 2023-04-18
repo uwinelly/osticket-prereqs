@@ -134,11 +134,10 @@ Refresh the osTicket site in your browse, and then observe the changes as shown 
 Next,we will rename the ost-sampleconfig.php. From the windows (C:) drive in file manager go to inetpub > wwwroot > osTicket >include > ost-sampleconfig.php.Right click and rename to "ost-config.php".We will then assign permissions to the ost-config.php by right clicking and going to properties. security tab. Advanced. Disable inheritance > Remove all inherited permissions from the object.
   
   ![image](https://user-images.githubusercontent.com/129979322/230660067-8c4e0b78-bac9-4a8d-b0c9-eab24d380243.png)
-  ![image](https://user-images.githubusercontent.com/129979322/230660338-cc525e3b-94fa-4d83-9660-1ff7d53da7c3.png)
-  
-Click Add > Select a principal > Type Everyone > check Names > OK > Give everyone Full control > OK > Apply >OK
-    
 
+Click Add > Select a principal > Type Everyone > check Names > OK > Give everyone Full control > OK > Apply >OK
+  
+  ![image](https://user-images.githubusercontent.com/129979322/230660338-cc525e3b-94fa-4d83-9660-1ff7d53da7c3.png)
   ![image](https://user-images.githubusercontent.com/129979322/230660612-f8793132-da1e-4b3f-a92f-52ad025e75fe.png)
   ![image](https://user-images.githubusercontent.com/129979322/230660831-81c744c7-52c0-4688-8ff7-ff8378b05cf6.png)
   ![image](https://user-images.githubusercontent.com/129979322/230661147-deb84aca-22a6-4664-b430-a139cb63e972.png)
