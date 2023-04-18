@@ -137,9 +137,10 @@ Next,we will rename the ost-sampleconfig.php. From the windows (C:) drive in fil
   ![image](https://user-images.githubusercontent.com/129979322/230660612-f8793132-da1e-4b3f-a92f-52ad025e75fe.png)
   ![image](https://user-images.githubusercontent.com/129979322/230660831-81c744c7-52c0-4688-8ff7-ff8378b05cf6.png)
   ![image](https://user-images.githubusercontent.com/129979322/230661147-deb84aca-22a6-4664-b430-a139cb63e972.png)
+Go ahead and continue setting up os Ticket installer in the browser.Click on continue and use whatever names,emails and password you like under"System settings"Admin User credentials just as long as you do not forget.
   ![image](https://user-images.githubusercontent.com/129979322/230730226-9987d702-54c7-4ad8-b975-fa639964b6b9.png)
   
-We are going to install Heidisql which allows us to connect to mySQL server we created above;and setup a database for OsTicket to use. Launch HeidiSql,open new for connection to the database.
+We are going to install Heidisql which allows us to connect to mySQL server we created above;and setup a database for OsTicket to use. Launch HeidiSql,open "New" for connection to the database.
   
   ![image](https://user-images.githubusercontent.com/129979322/230730833-b2496813-8775-4865-ab3d-cf74aeeb0d56.png)
   ![image](https://user-images.githubusercontent.com/129979322/230731074-ea388e5c-5ab1-41f7-a031-b83380a1b35d.png)
