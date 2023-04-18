@@ -145,10 +145,10 @@ Go ahead and continue setting up os Ticket installer in the browser.Click on con
 We are going to install Heidisql which allows us to connect to mySQL server we created above;and setup a database for OsTicket to use.Launch HeidiSql, accept agreement> Next> Next> Finish.
   ![image](https://user-images.githubusercontent.com/129979322/230730833-b2496813-8775-4865-ab3d-cf74aeeb0d56.png)
   ![image](https://user-images.githubusercontent.com/129979322/230731074-ea388e5c-5ab1-41f7-a031-b83380a1b35d.png)
+
+ Open "New" for connection to the database.User will be root > Password1 >
+  
   ![image](https://user-images.githubusercontent.com/129979322/230732730-c9ebd915-1601-40d3-bc12-580389ef2aff.png)
-  
- open "New" for connection to the database.
-  
   ![image](https://user-images.githubusercontent.com/129979322/230732863-49bb66e5-e00b-4865-9235-0ed6eb303ee3.png)
 
   ![image](https://user-images.githubusercontent.com/129979322/230733144-ee412047-5e9a-45f5-8606-21571dd059e6.png)
