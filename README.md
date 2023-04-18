@@ -31,8 +31,7 @@ Create a resource group name it "OsTicket" and then i will go ahead create a VM 
   ![image](https://user-images.githubusercontent.com/129979322/230533674-a6ca3fb5-0714-44f6-bf7d-792a23ff2675.png)
   ![image](https://user-images.githubusercontent.com/129979322/230532930-ba36dde8-2641-46d6-8732-1355cb9ec1ff.png)
   
-We are done creating the environment in Azure.  
-Next, we are going to Remote desktop connect into our VM.Install a bunch of prerequisites as well as OsTicket making sure we can log into it.
+We are done creating the environment in Azure.Next, we are going to Remote desktop connect into our VM and install a bunch of prerequisites as well as OsTicket making sure we can log into it.
 
   ![image](https://user-images.githubusercontent.com/129979322/230535141-9d3f6a63-d0ff-47e2-8328-d8dba7c5975c.png)
   
@@ -56,7 +55,7 @@ Enable ISS,go ahead expand It then expand World web wide services, expand Applic
   ![image](https://user-images.githubusercontent.com/129979322/230539426-90443585-c145-4310-9094-0a204cab4893.png)
   ![image](https://user-images.githubusercontent.com/129979322/230539154-154dc77c-d393-41f9-b34e-870a3b68d9d1.png)
   
-If you wanted to make sure that your web serves are working,you can open a new browser and type in 127.0.0.1(whis is your local host or loopback).
+If you wanted to make sure that your web serves are working,you can open a new browser and type in 127.0.0.1(which is your local host or loopback).
 You should be able to see the IIS page popup.If not double check your installation with CGI.
   
   ![image](https://user-images.githubusercontent.com/129979322/230539846-2fbacfed-32b0-4fe4-9b88-02f0341c3d4a.png)
