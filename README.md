@@ -167,7 +167,7 @@ We will now create a database called "osTicket". Right click on unamed in HeidiS
   ![image](https://user-images.githubusercontent.com/129979322/230733578-8d635e30-71cd-45d9-ba48-bc736c40f4cf.png)
   ![image](https://user-images.githubusercontent.com/129979322/230733611-2460f65a-4307-4891-88eb-3a08e26d6d6e.png)
   
-Congratulations,now you can browse to your help desk login page: http://localhost/osTicket/scp/login.php
+Now you can browse to your help desk login page: http://localhost/osTicket/scp/login.php
 Next step is to delete the C:\inetpub\wwwroot\osTicket\setup and Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php
   
   ![image](https://user-images.githubusercontent.com/129979322/230733963-e9b9e94f-9d49-40ed-8f71-0e2a93f74894.png)
