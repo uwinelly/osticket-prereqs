@@ -22,6 +22,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - OsTicket installation files
 - Heidi SQl
 
+<h1>- Microsoft Azure h1>
+- Configure on-premises Active Directory within Azure VMs)
+  
 We are going to start by creating a Virtual Machine using Microsoft azure portal.
 We will be using a VM which is a remote computer that helps to protect our physichal machine just in case something goes wrong. 
 Create a resource group name it "OsTicket" and then i will go ahead create a VM with 2-4 CPUs as shown in the example below.
