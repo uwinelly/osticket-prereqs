@@ -34,6 +34,9 @@ Create a resource group name it "OsTicket" and then i will go ahead create a VM 
 
   ![image](https://user-images.githubusercontent.com/129979322/230531734-0c98d33c-2545-4359-a736-59d828b33b73.png)<p>
   
+![image](https://user-images.githubusercontent.com/129979322/235310685-cc59b378-5f62-4877-b8fe-e047e1e6ddef.png)
+
+  
   ![image](https://user-images.githubusercontent.com/129979322/230532636-ae0bab0d-ed7c-4c68-af2b-32a9210e1452.png)
   
   ![image](https://user-images.githubusercontent.com/129979322/230533674-a6ca3fb5-0714-44f6-bf7d-792a23ff2675.png)
