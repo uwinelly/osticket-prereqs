@@ -27,6 +27,8 @@ We are going to start by creating a Virtual Machine using Microsoft azure portal
 We will be using a VM which is a remote computer that helps to protect our physichal machine just in case something goes wrong. 
 Create a resource group name it "OsTicket" and then i will go ahead create a VM with 2-4 CPUs as shown in the example below.
 
+![image](https://user-images.githubusercontent.com/129979322/235308675-916f62e7-2c61-40a7-a283-f79fe8b059d0.png)
+
   ![image](https://user-images.githubusercontent.com/129979322/230531734-0c98d33c-2545-4359-a736-59d828b33b73.png)<p>
   
   ![image](https://user-images.githubusercontent.com/129979322/230532636-ae0bab0d-ed7c-4c68-af2b-32a9210e1452.png)
