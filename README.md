@@ -237,6 +237,8 @@ Enter your credentials used while setting up osTicket installer previously.
   ![image](https://user-images.githubusercontent.com/129979322/230735033-cea7e49c-1413-483e-a4e1-35e3b7045700.png)
   
 Congratulations, you have made it to the end of how to set up osTicket.This tutorial was designed for beginners to learn how to setup and use osTicket.
+  
+  POST-INSTALLATION SETUP
 
 
 
