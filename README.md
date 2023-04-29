@@ -148,7 +148,8 @@ You are going to see the osTicket installer in your browser.
   ![image](https://user-images.githubusercontent.com/129979322/230652679-43f884d9-b6e6-4a67-8c9f-1ddbbc4998f9.png)
   
   ![image](https://user-images.githubusercontent.com/129979322/230652929-87eec733-86f4-4d79-86fa-ef03745207af.png)
-  
+ ![image](https://user-images.githubusercontent.com/129979322/235320557-a7be16fc-8890-49c2-b73e-e4c0127776c1.png)
+ 
 Note that some extensions are not enabled. Go back to IIS, sites -> Default -> osTicket.
 Double-click PHP Manager
 Click “Enable or disable an extension”
