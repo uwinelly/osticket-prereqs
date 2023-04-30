@@ -238,7 +238,6 @@ Enter your credentials used while setting up osTicket installer previously.
   
 Congratulations, you have made it to the end of how to set up osTicket.This tutorial was designed for beginners to learn how to setup and use osTicket.
   
-  POST-INSTALLATION SETUP
 
 
 
