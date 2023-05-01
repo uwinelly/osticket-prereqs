@@ -137,7 +137,7 @@ Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”.
 Restart the IIS server and Go to sites -> Default -> osTicket on the right, click “Browse *:80”(http)
 You are going to see the osTicket installer in your browser.
   
-  ![image](https://user-images.githubusercontent.com/129979322/230652679-43f884d9-b6e6-4a67-8c9f-1ddbbc4998f9.png)
+  ![image](https://user-images.githubusercontent.com/129979322/235388366-cd1c52b1-690e-406e-9c7f-107a7ec46ca4.png)
   
   ![image](https://user-images.githubusercontent.com/129979322/235320557-a7be16fc-8890-49c2-b73e-e4c0127776c1.png)
  
