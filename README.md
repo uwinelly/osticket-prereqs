@@ -27,13 +27,10 @@ We are going to start by creating a Virtual Machine using Microsoft azure portal
 We will be using a VM which is a remote computer that helps to protect our physichal machine just in case something goes wrong. 
 Create a resource group name it "OsTicket" and then i will go ahead create a VM with 2-4 CPUs as shown in the example below.
 
-![image](https://user-images.githubusercontent.com/129979322/235309947-3b59e869-7ce9-4377-b033-8aeaebac7fb5.png)
+  ![image](https://user-images.githubusercontent.com/129979322/235309947-3b59e869-7ce9-4377-b033-8aeaebac7fb5.png)
 
+  ![image](https://user-images.githubusercontent.com/129979322/235310685-cc59b378-5f62-4877-b8fe-e047e1e6ddef.png)
 
-
-![image](https://user-images.githubusercontent.com/129979322/235310685-cc59b378-5f62-4877-b8fe-e047e1e6ddef.png)
-
-  
   ![image](https://user-images.githubusercontent.com/129979322/230533674-a6ca3fb5-0714-44f6-bf7d-792a23ff2675.png)
   
   ![image](https://user-images.githubusercontent.com/129979322/230532930-ba36dde8-2641-46d6-8732-1355cb9ec1ff.png)
@@ -144,8 +141,7 @@ You are going to see the osTicket installer in your browser.
   
   ![image](https://user-images.githubusercontent.com/129979322/230652679-43f884d9-b6e6-4a67-8c9f-1ddbbc4998f9.png)
   
-  ![image](https://user-images.githubusercontent.com/129979322/230652929-87eec733-86f4-4d79-86fa-ef03745207af.png)
- ![image](https://user-images.githubusercontent.com/129979322/235320557-a7be16fc-8890-49c2-b73e-e4c0127776c1.png)
+  ![image](https://user-images.githubusercontent.com/129979322/235320557-a7be16fc-8890-49c2-b73e-e4c0127776c1.png)
  
 Note that some extensions are not enabled. Go back to IIS, sites -> Default -> osTicket.
 Double-click PHP Manager
