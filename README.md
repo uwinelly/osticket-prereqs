@@ -154,8 +154,7 @@ Enable: php_opcache.dll
   
   ![image](https://user-images.githubusercontent.com/129979322/230655267-ceb485bd-43a0-4742-9353-ad96c3fd2b37.png)
   
-  ![image](https://user-images.githubusercontent.com/129979322/235387269-3e8906cc-2676-43e7-944c-acc596796789.png)
-
+  ![image](https://user-images.githubusercontent.com/129979322/235387505-1c31697e-f4d7-4ec3-a06d-af623f7e1d29.png)
   
   ![image](https://user-images.githubusercontent.com/129979322/230655680-c43e94de-b901-4031-8f88-e6ab46066a14.png)
   
