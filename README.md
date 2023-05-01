@@ -116,7 +116,7 @@ Next browse to find your PHP Folder and look for your PHP-CGI file and open it c
   
   ![image](https://user-images.githubusercontent.com/129979322/230643912-6af50e34-dc3f-4a6b-9d57-ef9bc57214e8.png)
   
-  ![image](https://user-images.githubusercontent.com/129979322/230646813-6f2fd16b-7053-4931-b28b-9e383b23f267.png)
+ ![image](https://user-images.githubusercontent.com/129979322/235388518-e0867876-7fb3-4aaf-9031-6bd4d6d8b144.png)
   
   ![image](https://user-images.githubusercontent.com/129979322/230647422-fc347443-c9d3-4c66-b9c1-82ebcbbf0a01.png)
   
