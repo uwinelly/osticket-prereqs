@@ -81,7 +81,7 @@ which is one of the requirement for OsTicket to work.
 Next will be creating the directory C:\PHP on the root of C:\Drive and download php-7.3.8-nts-Win32-VC15-x86.zip) 
 and unzip the contents into C:\PHP we have just created.
 
-  ![image](https://user-images.githubusercontent.com/129979322/230628877-5ea583fc-fd4c-4bb1-ab33-9c73a295fff3.png)
+  ![image](https://user-images.githubusercontent.com/129979322/235388187-0f7af8a6-8074-4218-bc73-d4b5319c6f55.png)
   
   ![image](https://user-images.githubusercontent.com/129979322/230629140-01aa9978-5fba-433e-a1c0-4b5ae81bbf25.png)
   
