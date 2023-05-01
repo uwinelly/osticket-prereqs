@@ -68,8 +68,6 @@ If you wanted to make sure that your web serves are working,you can open a new b
 You should be able to see the IIS page popup.If not double check your installation with CGI.
   
   ![image](https://user-images.githubusercontent.com/129979322/235320665-0f7c1563-15d4-4fb6-a7f5-fd6972169efe.png)
-
-  ![image](https://user-images.githubusercontent.com/129979322/230539846-2fbacfed-32b0-4fe4-9b88-02f0341c3d4a.png)
   
 Now,we are going to download PHP Manager for IIS and install rewrite module(rewrite_amd64_en-US.msi),
 which is one of the requirement for OsTicket to work.
